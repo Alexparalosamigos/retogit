@@ -14,3 +14,5 @@ public class aaa_primera_clase {
         System.out.println (telefono);
         System.out.println (carnet);
         System.out.println (altura);
+    }
+}
